@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkeric_post_things_i_say=globalThis.webpackChunkeric_post_things_i_say||[]).push([[5742],{7093:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
