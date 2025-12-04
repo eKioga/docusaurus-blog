@@ -1,6 +1,6 @@
 ---
 slug: toe-buttons-and-home-assistant-am-i-the-only-one-doing-this
-title: Toe buttons and Home Assistant. Am I the only one doing this?
+title: Toe buttons and Home Assistant. A lesson in compromise.
 authors: eric
 tags: [selfhosting]
 ---
