@@ -28,7 +28,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'eKioga', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-blog', // Usually your repo name.
+  projectName: 'eKioga.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages",',
   
   onBrokenLinks: 'throw',
