@@ -1,0 +1,9 @@
+{
+  "label": "Services",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "This page contains a list of services that I have experience hosting."
+  },
+  "collapsed": true
+}
