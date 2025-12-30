@@ -158,5 +158,4 @@ const config = {
       },
     }),
 };
-//doop
 export default config;
